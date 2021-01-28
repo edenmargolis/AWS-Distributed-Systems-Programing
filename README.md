@@ -1,5 +1,5 @@
 # OCR & AWS Distributed Systems Programing
-This program gets an input a .txt file with links to pictures of text and outputs an HTML file with the pictures followed by the text written in them using Tesseract OCR and AWS.
+This program gets a .txt file with links to pictures of text as an input, and produce an HTML file with the pictures followed by the text written in them using Tesseract OCR and AWS.
 
 # How the program works:
 Local App first checks the correctness of the arguments.
